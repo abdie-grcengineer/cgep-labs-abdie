@@ -69,7 +69,7 @@ Always tear down at the end of the session. Reference workspaces are not meant t
 - `tfsec` (Lab 4.3)
 - `compliance-trestle` Python package (Lab 6.1)
 - `aws` CLI v2 with a working SSO or access-key profile
-- `gcloud` CLI for GCP labs
+- `az` CLI (Azure CLI) logged into your sandbox subscription for Azure labs
 
 ## Contributing
 
